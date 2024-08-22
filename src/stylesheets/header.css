@@ -1,0 +1,16 @@
+
+header{
+    box-shadow: 1px 1px 5px;
+    background-color: #f4f4f4;
+}
+
+div ul li:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all linear 0.5s;
+   
+}
+div ul li{
+    text-shadow: 1px 1px 1px;
+    
+}
